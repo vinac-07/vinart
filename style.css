@@ -1,0 +1,13 @@
+.row-dis{
+    margin:0px auto;
+    padding :30%;
+    background-color: black;
+}
+
+body{
+    overflow: hidden;
+}
+
+#flipbook .page{
+    background-color: white;
+}
